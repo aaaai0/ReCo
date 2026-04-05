@@ -7,6 +7,9 @@ Poject info (Global):
 
 The project was initially created with a complex modularity method, which was convenient and easy for the Author to understand. Currently, everything fits into the playbook format (.apbx) for AME. If you have questions or proposals regarding licenses and/or other issues, write to the Author on Telegram.
 
+Telegram:
+https://t.me/ReCo_dev | @ReCo_dev 
+
 ## 🔗 Использованные проекты и благодарности (Credits & References)
 Были взяты работы замечательного open-source сообщества. Выражаю благодарность авторам следующих инструментов и модификаций, которые используются в сборках:
 
